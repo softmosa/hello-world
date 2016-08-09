@@ -1,2 +1,2 @@
 # hello-world
-中興大學研習營
+hello world pratcie 
